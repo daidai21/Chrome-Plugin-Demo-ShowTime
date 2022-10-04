@@ -1,0 +1,35 @@
+.container {
+    width: 180px;
+    min-height: 100px;
+    max-height: 300px;
+    overflow-y: auto;
+    padding: 10px 5px;
+}
+
+.name {
+    width: 80px;
+    height: 20px;
+    text-align: center;
+    font-weight: bolder;
+    font-weight: bolder;
+    text-align: center;
+    margin: auto;
+}
+
+.currentTime {
+    width: 120px;
+    height: 20px;
+    text-align: center;
+    margin: auto;
+    color: red;
+    padding-top: 10px;
+}
+
+.show {
+    float: right;
+    padding-top: 35px;
+}
+
+.button {
+    color: blue;
+}
